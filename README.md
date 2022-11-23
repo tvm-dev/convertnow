@@ -4,6 +4,6 @@ It is possible to convert texts to lowercase, uppercase, only the first capital 
 
 This project is under development and will contain many useful features for any type of user.
 
-To access this project online now, just click on the address ahead!
 
-Demo: https://tvm-dev.github.io/convertnow/
+* This project was created with PHP and JS, so if you want to run on your local server, you will need to install some PHP server on your localhost.
+
