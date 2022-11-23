@@ -1,0 +1,159 @@
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
+
+  #links-tvm a {
+   text-decoration: none;
+    color: #796f6f;
+    
+
+  }
+
+  #links-tvm a:hover {
+    color: red;
+    
+  }
+
+  .navbar-brand
+            {
+            font-family: 'Acme', sans-serif;
+            font-size: 40px;
+            
+              
+            }
+
+  .tvm-list li {
+    text-decoration: none;
+    text-align: left;
+    list-style-type: none;
+
+  }
+  #menu-tvm {
+    text-align: center;
+  
+    color: #FFF;
+   
+
+  }
+  #menu-tvm-lang {
+    text-align: center;
+    
+    color: #FFF;
+    font-weight: 700;
+    
+    color: yellow;
+    
+
+
+  }
+  #menu-tvm-lang:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: overline;
+    background-color: rgb(255, 238, 0);
+    
+   
+   
+
+  }
+
+
+  #menu-tvm:hover {
+    padding-top: 1px;
+    transition: 0.5s;
+    background-color: rgb(3, 3, 3);
+   
+   
+
+  }
+  
+  #links-tvm {
+    text-decoration: none;
+  }
+
+  #links-page a {
+    text-decoration: none;
+    color: black;
+
+  }
+
+  #links-page a:hover {
+    padding-top: 1px;
+    transition: 0.5s;
+    background-color: rgb(211, 174, 174);
+    background-size: 2px;
+    
+  }
+
+  #more-tools {
+    text-align: center;
+    font-size: 15px;
+    color: #FFF;
+    font-weight: 700;
+    text-align: center;
+    align-items: center;
+  }
+
+  #more-tools:hover {
+    padding: 5px;
+    transition: 0.5s;
+    background-color: rgb(3, 3, 3);
+    font-size: 15px;
+  }
+
+  #ul-menu {
+    background-color: #0D6EFD;
+  }
+
+  
+  .container {
+    width: 98%;
+    margin-top: 10px;
+    border-radius: 10px;
+    padding: 5px;
+  
+}
+
+#logo {
+  margin-right: 10px;
+
+}
+
+footer {
+  text-align: center;
+  padding: 10px;
+  
+  box-shadow: 1px;
+
+  
+}
+
+#flags {
+  margin-right: 2px;
+  
+
+}
+
+.ad {
+width: 98%;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+margin: 10px;
+
+
+
+  
+ 
+
+}
